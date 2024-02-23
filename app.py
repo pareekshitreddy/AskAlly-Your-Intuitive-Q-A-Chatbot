@@ -20,7 +20,7 @@ def get_openai_response(question):
 
 st.set_page_config(page_title="Q&A Demo")
 
-st.header("Langchain Application")
+st.header("Ask me anything!")
 
 input=st.text_input("Input: ",key="input")
 response=get_openai_response(input)
