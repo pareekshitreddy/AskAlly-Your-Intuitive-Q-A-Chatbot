@@ -1,6 +1,6 @@
 # LangchainQAChatbot: Natural Language Question-Answering Chatbot
 
-This project implements a question-answering chatbot using Python and Streamlit, integrating the Langchain language model and the OpenAI API for language understanding. The application is deployed on Hugging Face Spaces and can be accessed [here](https://huggingface.co/pareekshitreddy/LangchainQAChatbot).
+This project implements a question-answering chatbot using Python and Streamlit, integrating the Langchain language model and the OpenAI API for language understanding. The application is deployed on Hugging Face Spaces and can be accessed [here](https://huggingface.co/spaces/pareekshitreddy/LangchainQAChatbot).
 
 ## Features:
 
